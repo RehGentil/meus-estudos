@@ -1,4 +1,4 @@
-# 🚀 Meus Estudos em Tecnologia & Dados
+# 🚀 Meus Estudos em Tecnologia
 
 Repositório central para organizar os meus estudos e cronogramas na transição de carreira.
 
